@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "channel": "release",
-  "release": "v2.0.1",
-  "source_commit": "fb6a578c6d1b195e1b4e1023875ceb51ea0c3981",
-  "generated_at": "2026-10-04T21:35:29Z",
-  "registry_version": 7,
+  "channel": "latest",
+  "release": null,
+  "source_commit": "9d83e3e272c408a28536d044cad1e8e95f24038d",
+  "generated_at": "2026-10-04T22:28:22Z",
+  "registry_version": 8,
   "key_id": "2",
   "server_count": 301,
   "artifact": "servers.txt",
-  "sha256": "f8f29b66413b2893dee18de144b2cc78bdedae8fa1859a771f25d3e3adb869ee"
+  "sha256": "411642f730d17d7a423ef9a07abbcad72c1643e21f91078d077b227565418e7f"
 }
